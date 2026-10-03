@@ -17,7 +17,7 @@
 
 ## 📌 1. Project Overview
 
-The **Real-Time Face Recognition and User Verification System** is
+The "Face Recognition-Based User Verification and Virtual Access Control System" is
 a computer vision project developed using Python, OpenCV, and
 face recognition techniques.
 
